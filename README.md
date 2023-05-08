@@ -20,3 +20,5 @@ I have over 5 years of experience as a software engineer, with expertise in the 
 - Docker
 - Kubernetes
 - AWS
+
+Verified by Linus Torvalds
